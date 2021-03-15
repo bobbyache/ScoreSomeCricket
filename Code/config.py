@@ -1,0 +1,1 @@
+# Usually this is where you'd put all your global data/variables
